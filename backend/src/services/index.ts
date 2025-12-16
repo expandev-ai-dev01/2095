@@ -6,4 +6,6 @@
  * @module services
  */
 
-
+export * from './product';
+export * from './cart';
+export * from './contact';

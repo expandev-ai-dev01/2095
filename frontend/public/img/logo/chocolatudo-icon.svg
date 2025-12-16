@@ -1,0 +1,13 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Simplified icon for mobile -->
+  <rect width="40" height="40" rx="8" fill="#8B4513"/>
+  
+  <!-- Cake icon centered -->
+  <g transform="translate(10, 8)">
+    <rect x="2" y="15" width="16" height="10" rx="2" fill="#D2691E"/>
+    <rect x="4" y="12" width="12" height="3" rx="1" fill="#F4A460"/>
+    <circle cx="10" cy="8" r="2" fill="#FFD700"/>
+    <path d="M10 8 L10 4" stroke="#FFD700" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M10 4 C10 4, 8 2, 10 0 C12 2, 10 4, 10 4" fill="#FF6347"/>
+  </g>
+</svg>

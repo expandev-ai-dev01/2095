@@ -6,4 +6,17 @@
  * @module instances
  */
 
+/**
+ * Product instances
+ */
+export { productStore } from './product';
 
+/**
+ * Cart instances
+ */
+export { cartStore } from './cart';
+
+/**
+ * Contact instances
+ */
+export { contactStore } from './contact';
